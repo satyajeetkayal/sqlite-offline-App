@@ -1,1 +1,1 @@
-# sqlite-offline-App
+# sqlite-offline-React-Native-App
